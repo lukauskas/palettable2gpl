@@ -1,0 +1,33 @@
+GIMP Palette
+Name: palettable.mycarta
+Columns: 4
+#
+ 120    0  133 Cube1.1
+ 127   59  220 Cube1.2
+  98  125  246 Cube1.3
+  60  174  197 Cube1.4
+  73  208  126 Cube1.5
+ 104  231   74 Cube1.6
+ 182  236   87 Cube1.7
+ 224  215   92 Cube1.8
+ 249  150   91 Cube1.9
+   0    0    0 SEPARATOR
+ 123    2  144 CubeYF.1
+ 131   55  216 CubeYF.2
+ 106  106  254 CubeYF.3
+  81  151  224 CubeYF.4
+  57  186  177 CubeYF.5
+  75  210  122 CubeYF.6
+  96  229   71 CubeYF.7
+ 163  236   85 CubeYF.8
+ 209  235   91 CubeYF.9
+   0    0    0 SEPARATOR
+   4    4    4 LinearL.1
+  45   23   71 LinearL.2
+  27   57  127 LinearL.3
+   0  100  109 LinearL.4
+   0  142   63 LinearL.5
+  52  177    0 LinearL.6
+ 172  198    0 LinearL.7
+ 245  214  183 LinearL.8
+ 255  255  255 LinearL.9

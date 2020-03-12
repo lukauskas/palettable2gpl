@@ -1,0 +1,43 @@
+GIMP Palette
+Name: palettable.matplotlib
+Columns: 4
+#
+   0    0    4 Inferno.1
+  33   12   74 Inferno.2
+  87   16  110 Inferno.3
+ 138   34  106 Inferno.4
+ 188   55   84 Inferno.5
+ 227   89   51 Inferno.6
+ 249  140   10 Inferno.7
+ 249  201   50 Inferno.8
+ 252  255  164 Inferno.9
+   0    0    0 SEPARATOR
+   0    0    4 Magma.1
+  29   17   71 Magma.2
+  81   18  124 Magma.3
+ 131   38  129 Magma.4
+ 183   55  121 Magma.5
+ 229   80  100 Magma.6
+ 251  135   97 Magma.7
+ 254  194  135 Magma.8
+ 252  253  191 Magma.9
+   0    0    0 SEPARATOR
+  13    8  135 Plasma.1
+  76    2  161 Plasma.2
+ 126    3  168 Plasma.3
+ 170   35  149 Plasma.4
+ 204   71  120 Plasma.5
+ 229  107   93 Plasma.6
+ 248  148   65 Plasma.7
+ 253  195   40 Plasma.8
+ 240  249   33 Plasma.9
+   0    0    0 SEPARATOR
+  68    1   84 Viridis.1
+  71   45  123 Viridis.2
+  59   82  139 Viridis.3
+  44  114  142 Viridis.4
+  33  145  140 Viridis.5
+  39  173  129 Viridis.6
+  92  200   99 Viridis.7
+ 170  220   50 Viridis.8
+ 253  231   37 Viridis.9

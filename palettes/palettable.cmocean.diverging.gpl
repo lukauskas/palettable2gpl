@@ -1,0 +1,33 @@
+GIMP Palette
+Name: palettable.cmocean.diverging
+Columns: 4
+#
+  24   28   67 Balance.1
+  37   72  176 Balance.2
+  56  136  186 Balance.3
+ 152  186  197 Balance.4
+ 241  236  235 Balance.5
+ 216  164  147 Balance.6
+ 192   90   60 Balance.7
+ 144   16   41 Balance.8
+  60    9   18 Balance.9
+   0    0    0 SEPARATOR
+  21   29   68 Curl.1
+  27   89  104 Curl.2
+  44  148  127 Curl.3
+ 163  194  162 Curl.4
+ 254  246  245 Curl.5
+ 226  168  145 Curl.6
+ 196   90   97 Curl.7
+ 134   32   96 Curl.8
+  52   13   53 Curl.9
+   0    0    0 SEPARATOR
+  17   32   64 Delta.1
+  28   82  157 Delta.2
+  51  145  169 Delta.3
+ 151  197  190 Delta.4
+ 255  253  205 Delta.5
+ 203  187   70 Delta.6
+  97  146   11 Delta.7
+  11   96   45 Delta.8
+  23   35   19 Delta.9
