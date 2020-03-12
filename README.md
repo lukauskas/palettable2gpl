@@ -23,7 +23,7 @@ Edit > Preferences > System: User config
 
 ## Acknowledgements
 
-Similar project: https://github.com/tcyb/cbrewer2gpl/blob/master/cbrewer_convert.ipynb
+Similar project: https://github.com/tcyb/cbrewer2gpl
 
 ## License
 
